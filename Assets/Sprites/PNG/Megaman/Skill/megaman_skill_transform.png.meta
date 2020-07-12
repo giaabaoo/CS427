@@ -1,0 +1,590 @@
+fileFormatVersion: 2
+guid: ffcb8e65c2cceac46a4c6d4fc99f6bd7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -347426401129342032
+    second: megaman_skill_transform_0
+  - first:
+      213: -7641509566534542537
+    second: megaman_skill_transform_1
+  - first:
+      213: 9183808504540686733
+    second: megaman_skill_transform_2
+  - first:
+      213: 5339156259442208312
+    second: megaman_skill_transform_3
+  - first:
+      213: 1051260523968612310
+    second: megaman_skill_transform_4
+  - first:
+      213: -1122377649626339894
+    second: megaman_skill_transform_5
+  - first:
+      213: -239301719713323265
+    second: megaman_skill_transform_6
+  - first:
+      213: 5088741522478906374
+    second: megaman_skill_transform_7
+  - first:
+      213: 4740156896856105711
+    second: megaman_skill_transform_8
+  - first:
+      213: 5261273006471041139
+    second: megaman_skill_transform_9
+  - first:
+      213: -3627535037043709699
+    second: megaman_skill_transform_10
+  - first:
+      213: -8040326597967773792
+    second: megaman_skill_transform_11
+  - first:
+      213: 1266661466186047128
+    second: megaman_skill_transform_12
+  - first:
+      213: 916599317249022406
+    second: megaman_skill_transform_13
+  - first:
+      213: 7529275035121095076
+    second: megaman_skill_transform_14
+  - first:
+      213: -1849569673125332121
+    second: megaman_skill_transform_15
+  - first:
+      213: 8172814402935869272
+    second: megaman_skill_transform_16
+  - first:
+      213: 6546408447260517020
+    second: megaman_skill_transform_17
+  - first:
+      213: -6959684604598700799
+    second: megaman_skill_transform_18
+  - first:
+      213: 8756774657805587116
+    second: megaman_skill_transform_19
+  - first:
+      213: 5526366302394353307
+    second: megaman_skill_transform_20
+  - first:
+      213: 1368388707037842817
+    second: megaman_skill_transform_21
+  - first:
+      213: 2867357481743752142
+    second: megaman_skill_transform_22
+  - first:
+      213: 1041246510302182211
+    second: megaman_skill_transform_23
+  - first:
+      213: -8987358085453942817
+    second: megaman_skill_transform_24
+  - first:
+      213: -3815317000506201399
+    second: megaman_skill_transform_25
+  - first:
+      213: -642145808626306342
+    second: megaman_skill_transform_26
+  - first:
+      213: 8693961090194745372
+    second: megaman_skill_transform_27
+  - first:
+      213: 504490700309522518
+    second: megaman_skill_transform_28
+  - first:
+      213: -2770793587255050549
+    second: megaman_skill_transform_29
+  - first:
+      213: 3049421230932382665
+    second: megaman_skill_transform_30
+  - first:
+      213: -4273115877791831421
+    second: megaman_skill_transform_31
+  - first:
+      213: 6179941447498779798
+    second: megaman_skill_transform_32
+  - first:
+      213: -631694442098917022
+    second: megaman_skill_transform_33
+  - first:
+      213: -3673278509296151433
+    second: megaman_skill_transform_34
+  - first:
+      213: -7337051962017603371
+    second: megaman_skill_transform_35
+  - first:
+      213: -4578412611569824790
+    second: megaman_skill_transform_36
+  - first:
+      213: -4322432688582998934
+    second: megaman_skill_transform_37
+  - first:
+      213: -5270546116803936360
+    second: megaman_skill_transform_38
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: megaman_skill_transform_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 11
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbd7176781bd2bf0800000000000000
+      internalID: -347426401129342032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_skill_transform_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 11
+        width: 15
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b95f22987e3f590800000000000000
+      internalID: -7641509566534542537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_skill_transform_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 11
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89eb5e4d21737f70800000000000000
+      internalID: 9183808504540686733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_skill_transform_3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 8
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e2b54745e781a40800000000000000
+      internalID: 5339156259442208312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_skill_transform_4
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 7
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d74a8170e3d69e00800000000000000
+      internalID: 1051260523968612310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_skill_transform_5
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 5
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac52f2a69738c60f0800000000000000
+      internalID: -1122377649626339894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_skill_transform_6
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 0
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6e8529a54ddacf0800000000000000
+      internalID: -239301719713323265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_skill_transform_7
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 0
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cb2211477de9640800000000000000
+      internalID: 5088741522478906374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_skill_transform_8
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2e9b0559b68c140800000000000000
+      internalID: 4740156896856105711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_skill_transform_10
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 3
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8e9b27a1868adc0800000000000000
+      internalID: -3627535037043709699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_skill_transform_11
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 7
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af71020f850b6090800000000000000
+      internalID: -8040326597967773792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_skill_transform_12
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 10
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ed1b674e5149110800000000000000
+      internalID: 1266661466186047128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_skill_transform_13
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 10
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c95ef1093a68bc00800000000000000
+      internalID: 916599317249022406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_skill_transform_14
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 10
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a11c9ca0cb5d7860800000000000000
+      internalID: 7529275035121095076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_skill_transform_15
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 10
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b77068e220556e0800000000000000
+      internalID: -1849569673125332121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_skill_transform_16
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 10
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f4036e56bab6170800000000000000
+      internalID: 8172814402935869272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_skill_transform_9
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1
+        width: 62
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370de098cebc30940800000000000000
+      internalID: 5261273006471041139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
